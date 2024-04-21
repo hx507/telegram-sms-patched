@@ -1,4 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">Telegram SMS</string>
+
+    <string name="scan_title" translatable="false">Scan Title</string>
+    <string name="user_manual" translatable="false">User Manual</string>
+    <string name="privacy_policy" translatable="false">Privacy Policy</string>
+    <string name="set_notification_listener" translatable="false">Set Notification Listener</string>
+    <string name="spam_sms_keyword_title" translatable="false">Spam SMS Keyword Title</string>
+    <string name="proxy_title" translatable="false">Proxy Title</string>
+    <string name="transfer_configuration" translatable="false">Transfer Configuration</string>
+    <string name="logcat" translatable="false">Logcat</string>
+    <string name="donate" translatable="false">Donate</string>
+    <string name="about_title" translatable="false">About Title</string>
+    <string name="qrcode_notice" translatable="false">QR Code Notice</string>
+    <string name="proxy_enable" translatable="false">Proxy Enable</string>
+    <string name="doh_over_socks5" translatable="false">DoH over SOCKS5</string>
+    <string name="proxy_host" translatable="false">Proxy Host</string>
+    <string name="proxy_port" translatable="false">Proxy Port</string>
+    <string name="proxy_username" translatable="false">Proxy Username</string>
+    <string name="proxy_password" translatable="false">Proxy Password</string>
+    <string name="keywords" translatable="false">Keywords</string>
+    <string name="bot_token" translatable="false">Bot Token</string>
+    <string name="chat_id" translatable="false">Chat ID</string>
+    <string name="trusted_phone_number" translatable="false">Trusted Phone Number</string>
+    <string name="network_error_falls_back_to_sms" translatable="false">Network Error Falls Back to SMS</string>
+    <string name="battery_monitoring" translatable="false">Battery Monitoring</string>
+    <string name="charger_status" translatable="false">Charger Status</string>
+    <string name="chat_command" translatable="false">Chat Command</string>
+    <string name="using_verification_code_identification" translatable="false">Using Verification Code Identification</string>
+    <string name="display_sim_card_alias_in_dual_card_mode" translatable="false">Display SIM Card Alias in Dual Card Mode</string>
+    <string name="using_privacy_mode" translatable="false">Using Privacy Mode</string>
+    <string name="using_doh" translatable="false">Using DoH</string>
+    <string name="get_recent_chat_id" translatable="false">Get Recent Chat ID</string>
+    <string name="test_and_save" translatable="false">Test and Save</string>
+
+    <string name="Notification_Listener_title" translatable="false">Notification Listener Title</string>
+    <string name="receive_notification_title" translatable="false">Receive Notification Title</string>
+    <string name="app_name_title" translatable="false">App Name Title</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="content" translatable="false">Content</string>
+    <string name="app_list" translatable="false">App List</string>
+    <string name="failed_resend" translatable="false">Failed Resend</string>
+    <string name="spam_keyword_edit_title" translatable="false">Spam Keyword Edit Title</string>
+    <string name="ok_button" translatable="false">OK</string>
+    <string name="cancel_button" translatable="false">Cancel</string>
+    <string name="delete_button" translatable="false">Delete</string>
+    <string name="spam_keyword_add_title" translatable="false">Spam Keyword Add Title</string>
+    <string name="time_format" translatable="false">Time Format</string>
+    <string name="no_logs" translatable="false">No Logs</string>
+    <string name="system_message_head" translatable="false">System Message Head</string>
+    <string name="low_battery_status_end" translatable="false">Low Battery Status End</string>
+    <string name="battery_low" translatable="false">Battery Low</string>
+    <string name="charger_connect" translatable="false">Charger Connect</string>
+    <string name="charger_disconnect" translatable="false">Charger Disconnect</string>
+    <string name="current_battery_level" translatable="false">Current Battery Level</string>
+    <string name="missed_call_head" translatable="false">Missed Call Head</string>
+    <string name="Incoming_number" translatable="false">Incoming Number</string>
+    <string name="sendsms" translatable="false">Send SMS</string>
+    <string name="sendsms_dual" translatable="false">Send SMS Dual</string>
+    <string name="get_spam_sms" translatable="false">Get Spam SMS</string>
+    <string name="send_ussd_command" translatable="false">Send USSD Command</string>
+    <string name="send_ussd_dual_command" translatable="false">Send USSD Dual Command</string>
+    <string name="available_command" translatable="false">Available Command</string>
+    <string name="spam_count_title" translatable="false">Spam Count Title</string>
+    <string name="current_network_connection_status" translatable="false">Current Network Connection Status</string>
+    <string name="unknown_command" translatable="false">Unknown Command</string>
+    <string name="no_spam_history" translatable="false">No Spam History</string>
+    <string name="failed_to_get_information" translatable="false">Failed to Get Information</string>
+    <string name="enter_number" translatable="false">Enter Number</string>
+    <string name="enter_content" translatable="false">Enter Content</string>
+    <string name="unable_get_phone_number" translatable="false">Unable Get Phone Number</string>
+    <string name="send_button" translatable="false">Send Button</string>
+    <string name="chat_command_service_name" translatable="false">Chat Command Service Name</string>
+    <string name="error_stop_message" translatable="false">Error Stop Message</string>
+    <string name="error_message_head" translatable="false">Error Message Head</string>
+    <string name="charging" translatable="false">Charging</string>
+    <string name="not_charging" translatable="false">Not Charging</string>
+    <string name="Lang" translatable="false">Language</string>
+    <string name="token_not_configure" translatable="false">Token Not Configured</string>
+    <string name="get_recent_chat_title" translatable="false">Get Recent Chat Title</string>
+    <string name="get_recent_chat_message" translatable="false">Get Recent Chat Message</string>
+    <string name="unable_get_recent" translatable="false">Unable to Get Recent</string>
+    <string name="select_chat" translatable="false">Select Chat</string>
+    <string name="chat_id_or_token_not_config" translatable="false">Chat ID or Token Not Configured</string>
+    <string name="trusted_phone_number_empty" translatable="false">Trusted Phone Number Empty</string>
+    <string name="connect_wait_title" translatable="false">Connect Wait Title</string>
+    <string name="connect_wait_message" translatable="false">Connect Wait Message</string>
+    <string name="success_connect" translatable="false">Success Connect</string>
+    <string name="privacy_reminder_title" translatable="false">Privacy Reminder Title</string>
+    <string name="privacy_reminder_information" translatable="false">Privacy Reminder Information</string>
+    <string name="agree" translatable="false">Agree</string>
+    <string name="decline" translatable="false">Decline</string>
+    <string name="visit_page" translatable="false">Visit Page</string>
+    <string name="no_camera_permission" translatable="false">No Camera Permission</string>
+    <string name="about_content" translatable="false">About Content</string>
+    <string name="proxy_dialog_title" translatable="false">Proxy Dialog Title</string>
+    <string name="receive_sms_head" translatable="false">Receive SMS Head</string>
+    <string name="from" translatable="false">From</string>
+    <string name="restart_service" translatable="false">Restart Service</string>
+    <string name="success" translatable="false">Success</string>
+    <string name="send_failed" translatable="false">Send Failed</string>
+    <string name="airplane_mode" translatable="false">Airplane Mode</string>
+    <string name="no_network" translatable="false">No Network</string>
+    <string name="send_ussd_head" translatable="false">Send USSD Head</string>
+    <string name="request" translatable="false">Request</string>
+    <string name="error_message" translatable="false">Error Message</string>
+
+    <string name="service_is_running" translatable="false">Service is running</string>
+    <string name="time" translatable="false">Time</string>
+    <string name="send_sms_head" translatable="false">Send SMS Head</string>
+    <string name="to" translatable="false">To</string>
+    <string name="status" translatable="false">Status</string>
+    <string name="sending" translatable="false">Sending</string>
+    <string name="ussd_code_running" translatable="false">USSD Code Running</string>
+    <string name="battery_monitoring_notify" translatable="false">Battery Monitoring Notify</string>
 </resources>

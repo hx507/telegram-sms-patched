@@ -50,6 +50,11 @@ public class sms_send_receiver extends BroadcastReceiver {
             Log.i(TAG, "Uninitialized, SMS send receiver is deactivated.");
             return;
         }
+        //if (extras.getInt("slot") == 1) {
+            //Log.i(TAG, "Skip sim 1 SMS receive.");
+            //return;
+        //}
+
         String bot_token = sharedPreferences.getString("bot_token", "");
         String chat_id = sharedPreferences.getString("chat_id", "");
         final request_message request_body = new request_message();
